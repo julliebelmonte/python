@@ -77,4 +77,3 @@ fun_books = 20.00
 total_price += nice_sweater + fun_books
 
 print("The total price is", str(total_price))
-
